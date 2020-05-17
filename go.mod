@@ -1,4 +1,4 @@
-module github.com/marpaia/concurrency-kit
+module github.com/marpaia/concurrency-examples
 
 go 1.14
 
